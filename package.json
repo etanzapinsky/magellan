@@ -1,0 +1,25 @@
+{
+  "name": "magellan",
+  "version": "0.0.1",
+  "description": "Open source API explorer.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/etanzapinsky/magellan.git"
+  },
+  "keywords": [
+    "api",
+    "explorer"
+  ],
+  "author": "Etan Zapinsky",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "27465c7e0a3e06c16ee1e8c545f310af23d5309b"
+}
